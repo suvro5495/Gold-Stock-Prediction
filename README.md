@@ -4,6 +4,14 @@
    
     Predicting gold prices accurately is crucial for investors and traders looking to make 
     informed decisions in the ever-changing financial markets.
+
+![Alt Text](https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2021/01/goldprice-1610094551.jpg)
+![Alt Text](https://ars.els-cdn.com/content/image/1-s2.0-S2666827022000378-gr1.jpg)
+![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKZaSfutrryoGBJW6vWk32vKxoFaN6oQ2hIgYEuMNTbVs9S369cGLtaV52Rv1UmoYPhdo&usqp=CAU)
+![Alt Text](https://editor.analyticsvidhya.com/uploads/96433Screenshot%20(153).png)
+![Alt Text](https://www.ijraset.com/images/text_version_uploads/imag%201_6182.png)
+![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7UEnIKT2TCLjS6KEAqIsKunj-5c990sR_U20wi845PHTwFQ25GfcNou1NQXZcCyPVZV8&usqp=CAU)
+![Alt Text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm70ZZHpxaQLe6BYzQjrjFcMIogseFlqym569KfGPv24sXKkVnHMJjiPH1qydMWJZKYPI&usqp=CAU)
    
     🌟 Leveraging machine learning techniques, this project aims to forecast gold prices using historical data, 
         enabling stakeholders to anticipate market trends and optimize their investment strategies. 💰
@@ -61,3 +69,4 @@ Special thanks to Nasdaq for providing the dataset, and to the contributors who 
 5. https://www.researchgate.net/publication/338685786_Forecasting_Gold_Price_An_Application_of_Auto_Regressive_Integrated_Moving_Average_Model
 6. https://www.researchgate.net/publication/372031743_Gold_Price_Prediction_Using_the_ARIMA_and_LSTM_Models
 7. https://www.academia.edu/33887301/Gold_Price_Forecast_in_India_Trends_and_Prediction_Final_Submission_for_Time_Series_and_Forecasting
+8. https://ijcrt.org/papers/IJCRT2106681.pdf
