@@ -52,3 +52,12 @@ By leveraging advanced machine learning techniques, this project contributes to 
 ##🌟 Acknowledgments 🌟
 
 Special thanks to Nasdaq for providing the dataset, and to the contributors who helped develop and refine the predictive models. 🙏
+
+## Resource Links
+1. https://www.researchgate.net/publication/362491642_Gold_Price_Prediction_using_Machine_Learning
+2. https://www.researchgate.net/publication/337034776_Gold_Price_Forecast_Based_on_LSTM-CNN_Model
+3. https://www.researchgate.net/publication/336414732_Gold_Price_Prediction_using_Ensemble_based_Machine_Learning_Techniques
+4. https://www.researchgate.net/publication/344330582_Gold_price_prediction_in_times_of_financial_and_geopolitical_uncertainty_A_machine_learning_approach
+5. https://www.researchgate.net/publication/338685786_Forecasting_Gold_Price_An_Application_of_Auto_Regressive_Integrated_Moving_Average_Model
+6. https://www.researchgate.net/publication/372031743_Gold_Price_Prediction_Using_the_ARIMA_and_LSTM_Models
+7. https://www.academia.edu/33887301/Gold_Price_Forecast_in_India_Trends_and_Prediction_Final_Submission_for_Time_Series_and_Forecasting
